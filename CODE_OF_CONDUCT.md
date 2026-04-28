@@ -1,128 +1,103 @@
-# Contributor Covenant Code of Conduct
+# 📜 Código de Conducta
 
-## Our Pledge
+## 🤝 Nuestro Compromiso
 
-We as members, contributors, and leaders pledge to make participation in our
-community a harassment-free experience for everyone, regardless of age, body
-size, visible or invisible disability, ethnicity, sex characteristics, gender
-identity and expression, level of experience, education, socio-economic status,
-nationality, personal appearance, race, religion, or sexual identity
-and orientation.
+Como miembros, colaboradores y líderes de esta comunidad, nos comprometemos a garantizar un entorno libre de acoso para todas las personas, sin importar edad, condición física, discapacidad visible o no visible, etnia, características sexuales, identidad o expresión de género, nivel de experiencia, educación, estatus socioeconómico, nacionalidad, apariencia personal, raza, religión o identidad y orientación sexual.
 
-We pledge to act and interact in ways that contribute to an open, welcoming,
-diverse, inclusive, and healthy community.
+Nos comprometemos a actuar de manera que fomentemos una comunidad abierta, inclusiva, respetuosa y saludable.
 
-## Our Standards
+---
 
-Examples of behavior that contributes to a positive environment for our
-community include:
+## 🌟 Nuestros Estándares
 
-* Demonstrating empathy and kindness toward other people
-* Being respectful of differing opinions, viewpoints, and experiences
-* Giving and gracefully accepting constructive feedback
-* Accepting responsibility and apologizing to those affected by our mistakes,
-  and learning from the experience
-* Focusing on what is best not just for us as individuals, but for the
-  overall community
+### ✔️ Comportamientos positivos
 
-Examples of unacceptable behavior include:
+Algunos ejemplos de comportamientos que contribuyen a un ambiente positivo:
 
-* The use of sexualized language or imagery, and sexual attention or
-  advances of any kind
-* Trolling, insulting or derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or email
-  address, without their explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
-  professional setting
+- Mostrar empatía y respeto hacia los demás
+- Aceptar y valorar diferentes opiniones y perspectivas
+- Dar y recibir retroalimentación constructiva de manera respetuosa
+- Asumir la responsabilidad de nuestros errores y aprender de ellos
+- Priorizar el bienestar de la comunidad sobre intereses individuales
 
-## Enforcement Responsibilities
+---
 
-Community leaders are responsible for clarifying and enforcing our standards of
-acceptable behavior and will take appropriate and fair corrective action in
-response to any behavior that they deem inappropriate, threatening, offensive,
-or harmful.
+### ❌ Comportamientos inaceptables
 
-Community leaders have the right and responsibility to remove, edit, or reject
-comments, commits, code, wiki edits, issues, and other contributions that are
-not aligned to this Code of Conduct, and will communicate reasons for moderation
-decisions when appropriate.
+Ejemplos de conductas que no serán toleradas:
 
-## Scope
+- Uso de lenguaje o contenido sexual inapropiado
+- Comentarios ofensivos, insultantes o ataques personales/políticos
+- Acoso en cualquier forma (público o privado)
+- Compartir información privada sin consentimiento
+- Cualquier conducta inapropiada en un entorno profesional
 
-This Code of Conduct applies within all community spaces, and also applies when
-an individual is officially representing the community in public spaces.
-Examples of representing our community include using an official e-mail address,
-posting via an official social media account, or acting as an appointed
-representative at an online or offline event.
+---
 
-## Enforcement
+## ⚖️ Responsabilidades de Aplicación
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at
-.
-All complaints will be reviewed and investigated promptly and fairly.
+Los líderes de la comunidad son responsables de hacer cumplir este código de conducta y tomarán medidas justas y apropiadas ante cualquier comportamiento que consideren inadecuado, ofensivo o perjudicial.
 
-All community leaders are obligated to respect the privacy and security of the
-reporter of any incident.
+Tienen la facultad de eliminar, editar o rechazar contribuciones (comentarios, código, issues, etc.) que no cumplan con este código.
 
-## Enforcement Guidelines
+---
 
-Community leaders will follow these Community Impact Guidelines in determining
-the consequences for any action they deem in violation of this Code of Conduct:
+## 🌐 Alcance
 
-### 1. Correction
+Este código aplica en todos los espacios de la comunidad, incluyendo:
 
-**Community Impact**: Use of inappropriate language or other behavior deemed
-unprofessional or unwelcome in the community.
+- Repositorios
+- Issues y Pull Requests
+- Redes sociales oficiales
+- Eventos en línea o presenciales
 
-**Consequence**: A private, written warning from community leaders, providing
-clarity around the nature of the violation and an explanation of why the
-behavior was inappropriate. A public apology may be requested.
+También aplica cuando alguien representa oficialmente al proyecto.
 
-### 2. Warning
+---
 
-**Community Impact**: A violation through a single incident or series
-of actions.
+## 🚨 Reportes
 
-**Consequence**: A warning with consequences for continued behavior. No
-interaction with the people involved, including unsolicited interaction with
-those enforcing the Code of Conduct, for a specified period of time. This
-includes avoiding interactions in community spaces as well as external channels
-like social media. Violating these terms may lead to a temporary or
-permanent ban.
+Los comportamientos inapropiados pueden ser reportados a los responsables del proyecto.
 
-### 3. Temporary Ban
+Todas las denuncias serán tratadas con confidencialidad y serán investigadas de forma justa y oportuna.
 
-**Community Impact**: A serious violation of community standards, including
-sustained inappropriate behavior.
+---
 
-**Consequence**: A temporary ban from any sort of interaction or public
-communication with the community for a specified period of time. No public or
-private interaction with the people involved, including unsolicited interaction
-with those enforcing the Code of Conduct, is allowed during this period.
-Violating these terms may lead to a permanent ban.
+## 📏 Medidas de Aplicación
 
-### 4. Permanent Ban
+### 1. Corrección
+**Impacto:** Conducta inapropiada leve  
+**Acción:** Advertencia privada y explicación del comportamiento
 
-**Community Impact**: Demonstrating a pattern of violation of community
-standards, including sustained inappropriate behavior,  harassment of an
-individual, or aggression toward or disparagement of classes of individuals.
+---
 
-**Consequence**: A permanent ban from any sort of public interaction within
-the community.
+### 2. Advertencia
+**Impacto:** Incidentes repetidos o moderados  
+**Acción:** Advertencia formal y limitación temporal de interacción
 
-## Attribution
+---
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage],
-version 2.0, available at
-https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
+### 3. Suspensión temporal
+**Impacto:** Violaciones graves o comportamiento persistente  
+**Acción:** Prohibición temporal de participación en la comunidad
 
-Community Impact Guidelines were inspired by [Mozilla's code of conduct
-enforcement ladder](https://github.com/mozilla/diversity).
+---
 
-[homepage]: https://www.contributor-covenant.org
+### 4. Expulsión permanente
+**Impacto:** Conducta reiterada o grave (acoso, agresión, etc.)  
+**Acción:** Expulsión definitiva de la comunidad
 
-For answers to common questions about this code of conduct, see the FAQ at
-https://www.contributor-covenant.org/faq. Translations are available at
-https://www.contributor-covenant.org/translations.
+---
+
+## 📄 Licencia y Créditos
+
+Este Código de Conducta está basado en el **Contributor Covenant (versión 2.0)**  
+https://www.contributor-covenant.org
+
+También toma inspiración de las guías de conducta de Mozilla.
+
+---
+
+## 👨‍💻 Autor
+
+Adaptado y mantenido por **Isai Reyes Peña**
