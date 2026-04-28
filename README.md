@@ -92,7 +92,7 @@ Esta aplicación es un prototipo visual (frontend), por lo que:
 ---
 ## 📲 Descargar APK:
 
-https://github.com/isairey/Uber-Eats-Clon/releases/download/v1.0/Grub.apk
+https://github.com/isairey/Uber-Eats-Clon/releases/download/V1/Grub.apk
 
 
 
