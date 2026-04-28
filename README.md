@@ -37,6 +37,30 @@ El sistema incluye todas las funcionalidades esenciales de una app de entrega de
 
 ## 🖼️ Capturas de pantalla
 
+
+## Screenshots
+
+Welcome               |  Sign in               | Onboarding               |  Location
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![](https://www.codenameone.com/wp-content/uploads/2021/08/GrubHub-1-Welcome.png?raw=true)|![](https://www.codenameone.com/wp-content/uploads/2021/08/GrubHub-2-Sign-In.png?raw=true)|![](https://www.codenameone.com/wp-content/uploads/2021/08/GrubHub-3-Onboarding.png?raw=true)|![](https://www.codenameone.com/wp-content/uploads/2021/08/GrubHub-4-Location.png?raw=true)|
+
+Home               |  Restaurants List               | Restaurant Page             |  Order
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![](https://www.codenameone.com/wp-content/uploads/2021/08/GrubHub-8-Home.png?raw=true)|![](https://www.codenameone.com/wp-content/uploads/2021/08/GrubHub-9-Restaurants.png?raw=true)|![](https://www.codenameone.com/wp-content/uploads/2021/08/GrubHub-10-Restaurant.png?raw=true)|![](https://www.codenameone.com/wp-content/uploads/2021/08/GrubHub-11-Product.png?raw=true)|
+
+
+Filter              |   Favorites               |  Add Card               | Order Placed      
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![](https://www.codenameone.com/wp-content/uploads/2021/08/GrubHub-12-Filter.png?raw=true)|![](https://www.codenameone.com/wp-content/uploads/2021/08/GrubHub-7-Favorite.png?raw=true)|![](https://www.codenameone.com/wp-content/uploads/2021/08/GrubHub-5-Add-Card.png?raw=true)|![](https://www.codenameone.com/wp-content/uploads/2021/08/GrubHub-15-Order-Success.png?raw=true)|
+
+
+|  Order Processing       |   Order Cancelled          |  Profile           
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://www.codenameone.com/wp-content/uploads/2021/08/GrubHub-13-Order-Progress.png?raw=true)|![](https://www.codenameone.com/wp-content/uploads/2021/08/GrubHub-14-Order-Cancel.png?raw=true)|![](https://www.codenameone.com/wp-content/uploads/2021/08/GrubHub-6-Profile.png?raw=true)|
+
+
+
+
 ### 🔹 Inicio y acceso
 
 ![Welcome](https://www.codenameone.com/wp-content/uploads/2021/08/GrubHub-1-Welcome.png)
