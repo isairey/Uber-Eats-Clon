@@ -38,8 +38,9 @@ El sistema incluye todas las funcionalidades esenciales de una app de entrega de
 ## 🖼️ Capturas de pantalla
 
 ### 🔹 Inicio y acceso
-![](https://www.codenameone.com/wp-content/uploads/2021/08/GrubHub-1-Welcome.png?raw=true)|![](https://www.codenameone.com/wp-content/uploads/2021/08/GrubHub-2-Sign-In.png?raw=true)|![](https://www.codenameone.com/wp-content/uploads/2021/08/GrubHub-3-Onboarding.png?raw=true)|![](https://www.codenameone.com/wp-content/uploads/2021/08/GrubHub-4-Location.png?raw=true)|
+
 ![Welcome](https://www.codenameone.com/wp-content/uploads/2021/08/GrubHub-1-Welcome.png)
+
 ![Login](https://www.codenameone.com/wp-content/uploads/2021/08/GrubHub-2-Sign-In.png)
 
 ### 🔹 Navegación
