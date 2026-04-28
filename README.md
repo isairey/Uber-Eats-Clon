@@ -65,46 +65,65 @@ El sistema incluye todas las funcionalidades esenciales de una app de entrega de
 ### Desde CLI
 ```bash
 mvn install
+```
 Alternativa
 
 Abrir el proyecto en cualquier IDE compatible con Maven:
-
+```
 IntelliJ IDEA
 Visual Studio Code
 Eclipse
 NetBeans
-▶️ Uso
-Explorar restaurantes
-Buscar comida
-Agregar productos al carrito
-Simular pedidos
-Gestionar perfil de usuario
-💡 Funcionamiento
+```
+---
+
+## ▶️ Uso
+
+- Explorar restaurantes
+- Buscar comida
+- Agregar productos al carrito
+- Simular pedidos
+- Gestionar perfil de usuario
+
+---
+## 💡 Funcionamiento
 
 Esta aplicación es un prototipo visual (frontend), por lo que:
 
-No está conectada a un backend real
-La lógica es simulada para demostración
-Puede integrarse fácilmente con cualquier API o servidor
-📈 Mejoras futuras
-🔗 Integración con backend real
-💳 Pagos en línea funcionales
-📡 Conexión con APIs de restaurantes
-🔔 Notificaciones en tiempo real
-☁️ Despliegue en la nube
-🎥 Demo
+- No está conectada a un backend real
+- La lógica es simulada para demostración
+- Puede integrarse fácilmente con cualquier API o servidor
 
-📲 Descargar APK:
+---
+## 📈 Mejoras futuras
+
+- 🔗 Integración con backend real
+- 💳 Pagos en línea funcionales
+- 📡 Conexión con APIs de restaurantes
+- 🔔 Notificaciones en tiempo real
+- ☁️ Despliegue en la nube
+- 🎥 Demo
+
+---
+## 📲 Descargar APK:
+
 https://github.com/sergeyCodenameOne/UberEatsClone/releases/download/v1.0/Grub.apk
 
-📚 Recursos adicionales
+---
+
+## 📚 Recursos adicionales
+
 https://www.codenameone.com/
 https://github.com/shannah/CodeRAD
 https://github.com/shannah/RADChatApp
-📄 Licencia
+
+--- 
+
+## 📄 Licencia
 
 Este proyecto está bajo licencia Apache 2.0.
 
-👨‍💻 Autor
+---
+## 👨‍💻 Autor
 
-Desarrollado por Isai Reyes Peña
+Desarrollado por **Isai Reyes Peña**
