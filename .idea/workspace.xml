@@ -1,0 +1,938 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="336d32c5-6f4b-4a8f-b637-9fea310958e7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_codenameone_codenameone_core_7_0_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grub - Build Android Studio Project.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grub - Build JavaSE Desktop App.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grub - Build iOS Xcode Project.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grub - Debug Simulator.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grub - Debug in Simulator.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grub - Remote Debug Simulator.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grub - Run Desktop.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grub - Run Simulator.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grub - Send Android Build.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grub - Send Javascript Build.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grub - Send Mac Desktop Build.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grub - Send Windows Desktop Build.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grub - Send Windows UWP Build.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grub - Send iOS Debug Build.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grub - Send iOS Release Build.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grub - Update Codename One.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grub Settings.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cn1libs/CodeRAD/jars/main.zip" beforeDir="false" afterPath="$PROJECT_DIR$/cn1libs/CodeRAD/jars/main.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/Versions.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/codenameone_kotlin.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/codenameone_settings.properties" beforeDir="false" afterPath="$PROJECT_DIR$/common/codenameone_settings.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/grub-common.iml" beforeDir="false" afterPath="$PROJECT_DIR$/common/grub-common.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/nbactions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/common/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/css/theme.css.merged" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/codename1/demos/grub/Grub.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/com/codename1/demos/grub/Grub.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/com/codename1/demos/grub/controllers/IntroductionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/com/codename1/demos/grub/controllers/IntroductionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/test/java/com/codename1/demos/grub/MyFirstTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/test/java/com/codename1/demos/grub/MyFirstTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/codename1/demos/grub/Grub.class" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/classes/com/codename1/demos/grub/Grub.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/com/codename1/demos/grub/controllers/IntroductionController.class" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/classes/com/codename1/demos/grub/controllers/IntroductionController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/theme.res" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/classes/theme.res" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/compliance-check.jar" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/compliance-check.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/dark-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/account-place-holder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/afternoon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/apple-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/apple-icon2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/bottom-shade.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/cash-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/category-icons/all-icon-selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/category-icons/all-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/category-icons/chicken-icon-selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/category-icons/chicken-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/category-icons/donut-icon-selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/category-icons/donut-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/category-icons/kebab-icon-selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/category-icons/kebab-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/category-icons/meal-icon-selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/category-icons/meal-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/category-icons/pizza-icon-selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/category-icons/pizza-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/category-icons/rice-icon-selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/category-icons/rice-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/category-icons/steak-icon-selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/category-icons/steak-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/credit-card-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/credit-card.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/delivery-info.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/delivery-progress-dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/delivery-progress.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/delivery-time-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/dish-placeholder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/distance-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/evening.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/facebook-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/filter-button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/first-intro-image-dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/first-intro-image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/google-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/grub-logo-full.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/grub-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/half-round-rectangle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/icon-message-circle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/icon-phone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/lobby-background-dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/lobby-background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/main-window-options/main-window-favorite-selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/main-window-options/main-window-favorite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/main-window-options/main-window-home-selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/main-window-options/main-window-home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/main-window-options/main-window-orders-selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/main-window-options/main-window-orders.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/main-window-options/main-window-profile-selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/main-window-options/main-window-profile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/main-window-tabs-container-background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/map-pin-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/morning.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/order-total-background-dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/order-total-background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/paypal-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/placeholder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/rating-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/register-background-dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/register-background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/second-intro-image-dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/second-intro-image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/set-first-location-background-dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/set-first-location-background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/sign-in-background-dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/sign-in-background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/third-intro-image-dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/third-intro-image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/ticket-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/top-shade.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/images/wallet-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/cn1-merged-files/956cf78a95aa2a510c812bc22ae9c5bc/theme.css.merged" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/css/theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/css/theme.css.checksums" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/css/theme.css.checksums" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/generated-sources/CodeRAD/jars/main.zip" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/generated-sources/CodeRAD/jars/main.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/grub-common-1.0-SNAPSHOT-tests.jar" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/grub-common-1.0-SNAPSHOT-tests.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/grub-common-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/grub-common-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ios/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/javase/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase/src/desktop/java/com/codename1/demos/grub/GrubStub.java" beforeDir="false" afterPath="$PROJECT_DIR$/javase/src/desktop/java/com/codename1/demos/grub/GrubStub.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase/target/grub-javase-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/javase/target/grub-javase-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/javase/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maven.adoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nb-configuration.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbactions-Desktop App.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbactions-JavaSE Desktop App.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbactions-Simulator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbactions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/win/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/win/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Users\serge\.m2\wrapper\dists\apache-maven-3.6.3-bin\1iopthnavndlasol9gbrbg6bf2\apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
+    <option name="mavenProperties">
+      <map>
+        <entry key="codename1.platform" value="javase" />
+      </map>
+    </option>
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1occntywqhF2GI6rzQO8tgiLMHt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/common/src/main" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.14306152" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\serge\Desktop\new Proj\common\src\main" />
+      <recent name="C:\Users\serge\Desktop\new Proj\common\src\main\css" />
+      <recent name="C:\Users\serge\Desktop\new Proj\common\src\main\java\com\codename1\demos\grub" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Maven.Run in Simulator">
+    <configuration name="Android Build" type="MavenRunConfiguration" factoryName="Maven" folderName="Build Server">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings">
+          <MavenRunnerSettings>
+            <option name="delegateBuildToMaven" value="true" />
+            <option name="environmentProperties">
+              <map />
+            </option>
+            <option name="jreName" value="#USE_PROJECT_JDK" />
+            <option name="mavenProperties">
+              <map>
+                <entry key="codename1.buildTarget" value="android-device" />
+                <entry key="codename1.platform" value="android" />
+              </map>
+            </option>
+            <option name="passParentEnv" value="true" />
+            <option name="runMavenInBackground" value="true" />
+            <option name="skipTests" value="true" />
+            <option name="vmOptions" value="" />
+          </MavenRunnerSettings>
+        </option>
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="package" />
+                <option value="-U" />
+                <option value="-e" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Codename One Settings" type="MavenRunConfiguration" factoryName="Maven" folderName="Tools">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings">
+          <MavenRunnerSettings>
+            <option name="delegateBuildToMaven" value="true" />
+            <option name="environmentProperties">
+              <map />
+            </option>
+            <option name="jreName" value="#USE_PROJECT_JDK" />
+            <option name="mavenProperties">
+              <map />
+            </option>
+            <option name="passParentEnv" value="true" />
+            <option name="runMavenInBackground" value="true" />
+            <option name="skipTests" value="true" />
+            <option name="vmOptions" value="" />
+          </MavenRunnerSettings>
+        </option>
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="cn1:settings" />
+                <option value="-e" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Cross-platform (JavaSE) Desktop App" type="MavenRunConfiguration" factoryName="Maven" folderName="Local Builds">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings">
+          <MavenRunnerSettings>
+            <option name="delegateBuildToMaven" value="true" />
+            <option name="environmentProperties">
+              <map />
+            </option>
+            <option name="jreName" value="#USE_PROJECT_JDK" />
+            <option name="mavenProperties">
+              <map>
+                <entry key="codename1.platform" value="javase" />
+              </map>
+            </option>
+            <option name="passParentEnv" value="true" />
+            <option name="runMavenInBackground" value="true" />
+            <option name="skipTests" value="true" />
+            <option name="vmOptions" value="" />
+          </MavenRunnerSettings>
+        </option>
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="package" />
+                <option value="-U" />
+                <option value="-e" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map>
+                <entry key="executable-jar" value="true" />
+              </map>
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Generate Native Interfaces" type="MavenRunConfiguration" factoryName="Maven" folderName="Tools">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings">
+          <MavenRunnerSettings>
+            <option name="delegateBuildToMaven" value="true" />
+            <option name="environmentProperties">
+              <map />
+            </option>
+            <option name="jreName" value="#USE_PROJECT_JDK" />
+            <option name="mavenProperties">
+              <map />
+            </option>
+            <option name="passParentEnv" value="true" />
+            <option name="runMavenInBackground" value="true" />
+            <option name="skipTests" value="true" />
+            <option name="vmOptions" value="" />
+          </MavenRunnerSettings>
+        </option>
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="cn1:generate-native-interfaces" />
+                <option value="-e" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Gradle Android Project" type="MavenRunConfiguration" factoryName="Maven" folderName="Local Builds">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings">
+          <MavenRunnerSettings>
+            <option name="delegateBuildToMaven" value="true" />
+            <option name="environmentProperties">
+              <map />
+            </option>
+            <option name="jreName" value="#USE_PROJECT_JDK" />
+            <option name="mavenProperties">
+              <map>
+                <entry key="codename1.buildTarget" value="android-source" />
+                <entry key="codename1.platform" value="android" />
+              </map>
+            </option>
+            <option name="passParentEnv" value="true" />
+            <option name="runMavenInBackground" value="true" />
+            <option name="skipTests" value="true" />
+            <option name="vmOptions" value="" />
+          </MavenRunnerSettings>
+        </option>
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="package" />
+                <option value="-U" />
+                <option value="-e" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Javascript Build" type="MavenRunConfiguration" factoryName="Maven" folderName="Build Server">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings">
+          <MavenRunnerSettings>
+            <option name="delegateBuildToMaven" value="true" />
+            <option name="environmentProperties">
+              <map />
+            </option>
+            <option name="jreName" value="#USE_PROJECT_JDK" />
+            <option name="mavenProperties">
+              <map>
+                <entry key="codename1.buildTarget" value="javascript" />
+                <entry key="codename1.platform" value="javascript" />
+              </map>
+            </option>
+            <option name="passParentEnv" value="true" />
+            <option name="runMavenInBackground" value="true" />
+            <option name="skipTests" value="true" />
+            <option name="vmOptions" value="" />
+          </MavenRunnerSettings>
+        </option>
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="package" />
+                <option value="-U" />
+                <option value="-e" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Mac Desktop Build" type="MavenRunConfiguration" factoryName="Maven" folderName="Build Server">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings">
+          <MavenRunnerSettings>
+            <option name="delegateBuildToMaven" value="true" />
+            <option name="environmentProperties">
+              <map />
+            </option>
+            <option name="jreName" value="#USE_PROJECT_JDK" />
+            <option name="mavenProperties">
+              <map>
+                <entry key="codename1.buildTarget" value="mac-os-x-desktop" />
+                <entry key="codename1.platform" value="javase" />
+              </map>
+            </option>
+            <option name="passParentEnv" value="true" />
+            <option name="runMavenInBackground" value="true" />
+            <option name="skipTests" value="true" />
+            <option name="vmOptions" value="" />
+          </MavenRunnerSettings>
+        </option>
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="package" />
+                <option value="-U" />
+                <option value="-e" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Run as Desktop App" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings">
+          <MavenRunnerSettings>
+            <option name="delegateBuildToMaven" value="true" />
+            <option name="environmentProperties">
+              <map />
+            </option>
+            <option name="jreName" value="#USE_PROJECT_JDK" />
+            <option name="mavenProperties">
+              <map>
+                <entry key="codename1.platform" value="javase" />
+              </map>
+            </option>
+            <option name="passParentEnv" value="true" />
+            <option name="runMavenInBackground" value="true" />
+            <option name="skipTests" value="true" />
+            <option name="vmOptions" value="" />
+          </MavenRunnerSettings>
+        </option>
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="verify" />
+                <option value="-e" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map>
+                <entry key="run-desktop" value="true" />
+              </map>
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Run in Simulator" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings">
+          <MavenRunnerSettings>
+            <option name="delegateBuildToMaven" value="true" />
+            <option name="environmentProperties">
+              <map />
+            </option>
+            <option name="jreName" value="#USE_PROJECT_JDK" />
+            <option name="mavenProperties">
+              <map>
+                <entry key="codename1.platform" value="javase" />
+              </map>
+            </option>
+            <option name="passParentEnv" value="true" />
+            <option name="runMavenInBackground" value="true" />
+            <option name="skipTests" value="true" />
+            <option name="vmOptions" value="" />
+          </MavenRunnerSettings>
+        </option>
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="verify" />
+                <option value="-e" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map>
+                <entry key="idea-simulator" value="true" />
+              </map>
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Update Codename One" type="MavenRunConfiguration" factoryName="Maven" folderName="Tools">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings">
+          <MavenRunnerSettings>
+            <option name="delegateBuildToMaven" value="true" />
+            <option name="environmentProperties">
+              <map />
+            </option>
+            <option name="jreName" value="#USE_PROJECT_JDK" />
+            <option name="mavenProperties">
+              <map />
+            </option>
+            <option name="passParentEnv" value="true" />
+            <option name="runMavenInBackground" value="true" />
+            <option name="skipTests" value="true" />
+            <option name="vmOptions" value="" />
+          </MavenRunnerSettings>
+        </option>
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="cn1:update" />
+                <option value="-e" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Windows Desktop Build" type="MavenRunConfiguration" factoryName="Maven" folderName="Build Server">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings">
+          <MavenRunnerSettings>
+            <option name="delegateBuildToMaven" value="true" />
+            <option name="environmentProperties">
+              <map />
+            </option>
+            <option name="jreName" value="#USE_PROJECT_JDK" />
+            <option name="mavenProperties">
+              <map>
+                <entry key="codename1.buildTarget" value="windows-desktop" />
+                <entry key="codename1.platform" value="javase" />
+              </map>
+            </option>
+            <option name="passParentEnv" value="true" />
+            <option name="runMavenInBackground" value="true" />
+            <option name="skipTests" value="true" />
+            <option name="vmOptions" value="" />
+          </MavenRunnerSettings>
+        </option>
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="package" />
+                <option value="-U" />
+                <option value="-e" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Windows Device Build (UWP)" type="MavenRunConfiguration" factoryName="Maven" folderName="Build Server">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings">
+          <MavenRunnerSettings>
+            <option name="delegateBuildToMaven" value="true" />
+            <option name="environmentProperties">
+              <map />
+            </option>
+            <option name="jreName" value="#USE_PROJECT_JDK" />
+            <option name="mavenProperties">
+              <map>
+                <entry key="codename1.buildTarget" value="windows-device" />
+                <entry key="codename1.platform" value="win" />
+              </map>
+            </option>
+            <option name="passParentEnv" value="true" />
+            <option name="runMavenInBackground" value="true" />
+            <option name="skipTests" value="true" />
+            <option name="vmOptions" value="" />
+          </MavenRunnerSettings>
+        </option>
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="package" />
+                <option value="-U" />
+                <option value="-e" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Xcode iOS Project" type="MavenRunConfiguration" factoryName="Maven" folderName="Local Builds">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings">
+          <MavenRunnerSettings>
+            <option name="delegateBuildToMaven" value="true" />
+            <option name="environmentProperties">
+              <map />
+            </option>
+            <option name="jreName" value="#USE_PROJECT_JDK" />
+            <option name="mavenProperties">
+              <map>
+                <entry key="codename1.buildTarget" value="ios-source" />
+                <entry key="codename1.platform" value="ios" />
+              </map>
+            </option>
+            <option name="passParentEnv" value="true" />
+            <option name="runMavenInBackground" value="true" />
+            <option name="skipTests" value="true" />
+            <option name="vmOptions" value="" />
+          </MavenRunnerSettings>
+        </option>
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="package" />
+                <option value="-U" />
+                <option value="-e" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map>
+                <entry key="simulator" value="true" />
+              </map>
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="iOS Debug Build" type="MavenRunConfiguration" factoryName="Maven" folderName="Build Server">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings">
+          <MavenRunnerSettings>
+            <option name="delegateBuildToMaven" value="true" />
+            <option name="environmentProperties">
+              <map />
+            </option>
+            <option name="jreName" value="#USE_PROJECT_JDK" />
+            <option name="mavenProperties">
+              <map>
+                <entry key="codename1.buildTarget" value="ios-device" />
+                <entry key="codename1.platform" value="ios" />
+              </map>
+            </option>
+            <option name="passParentEnv" value="true" />
+            <option name="runMavenInBackground" value="true" />
+            <option name="skipTests" value="true" />
+            <option name="vmOptions" value="" />
+          </MavenRunnerSettings>
+        </option>
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="package" />
+                <option value="-U" />
+                <option value="-e" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="iOS Release Build" type="MavenRunConfiguration" factoryName="Maven" folderName="Build Server">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings">
+          <MavenRunnerSettings>
+            <option name="delegateBuildToMaven" value="true" />
+            <option name="environmentProperties">
+              <map />
+            </option>
+            <option name="jreName" value="#USE_PROJECT_JDK" />
+            <option name="mavenProperties">
+              <map>
+                <entry key="codename1.buildTarget" value="ios-device-release" />
+                <entry key="codename1.platform" value="ios" />
+              </map>
+            </option>
+            <option name="passParentEnv" value="true" />
+            <option name="runMavenInBackground" value="true" />
+            <option name="skipTests" value="true" />
+            <option name="vmOptions" value="" />
+          </MavenRunnerSettings>
+        </option>
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="package" />
+                <option value="-U" />
+                <option value="-e" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Maven.Android Build" />
+      <item itemvalue="Maven.iOS Debug Build" />
+      <item itemvalue="Maven.iOS Release Build" />
+      <item itemvalue="Maven.Javascript Build" />
+      <item itemvalue="Maven.Mac Desktop Build" />
+      <item itemvalue="Maven.Windows Desktop Build" />
+      <item itemvalue="Maven.Windows Device Build (UWP)" />
+      <item itemvalue="Maven.Cross-platform (JavaSE) Desktop App" />
+      <item itemvalue="Maven.Xcode iOS Project" />
+      <item itemvalue="Maven.Gradle Android Project" />
+      <item itemvalue="Maven.Generate Native Interfaces" />
+      <item itemvalue="Maven.Codename One Settings" />
+      <item itemvalue="Maven.Update Codename One" />
+      <item itemvalue="Maven.Run in Simulator" />
+      <item itemvalue="Maven.Run as Desktop App" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="336d32c5-6f4b-4a8f-b637-9fea310958e7" name="Default Changelist" comment="" />
+      <created>1613589489573</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613589489573</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="208" key="GridCell.Tab.0.bottom" timestamp="1629034027712">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1629034027712" />
+    <state width="1877" height="208" key="GridCell.Tab.0.center" timestamp="1629034027712">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="208" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1629034027712" />
+    <state width="1877" height="208" key="GridCell.Tab.0.left" timestamp="1629034027712">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="208" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1629034027712" />
+    <state width="1877" height="208" key="GridCell.Tab.0.right" timestamp="1629034027712">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="208" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1629034027712" />
+    <state x="2587" y="253" width="586" height="534" key="find.popup" timestamp="1629033809977">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2587" y="253" width="586" height="534" key="find.popup/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1629033809977" />
+  </component>
+</project>
